@@ -1,9 +1,9 @@
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.code-workspace
 
-# Local History for Visual Studio Code
-.history/
+# Since the code editor that I mainly use is vscode the only folder 
+# git needed to block was the .vscode folder and all of its files
